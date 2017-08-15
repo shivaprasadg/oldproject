@@ -9,7 +9,7 @@ body {
 
 .site-wrapper {
   height: 100%;
-  position: relative;
+
 }
 
 .site-navbar {
@@ -17,8 +17,6 @@ margin-bottom: 0;
 }
 
 .footer {
-  position: relative;
-  bottom: 0;
   background-color: #1D1D1D;
   width: 100%;
   height: 80px;
@@ -36,4 +34,8 @@ margin-bottom: 0;
 
   .site-navigation {
     float: right;
+  }
+
+  .cover-img {
+    width:100%;
   }
